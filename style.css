@@ -61,3 +61,9 @@ border-radius: 10px;
 footer p{
     text-align: center;
 }
+#padding{
+padding: 84px;
+}
+.font-justify{
+    text-align: justify;
+}
